@@ -1,0 +1,17 @@
+body{
+    
+    width: 80%;
+    margin: 0 auto;
+    background-color: #d58af0;
+}
+
+label{
+    color: #8c4703;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-family: "Bauhaus 93";
+    font-size: 60px;
+   
+}
